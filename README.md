@@ -1,4 +1,4 @@
-# copy-app
+# clipboard-app
 Como utilizar a área de transferência do dispositivo com React Native - [Rocketseat](https://www.youtube.com/watch?v=SemmvugOm_g&ab_channel=Rocketseat).
 
 ## Requisitos

@@ -22,6 +22,6 @@ expo start
 
 # Screenshots
 <p align="center">
-  <img src="https://github.com/karenyov/copy-app/blob/main/app.png" width="500">
+  <img src="https://github.com/karenyov/copy-app/blob/main/app.png" width="400">
 </p>
 
